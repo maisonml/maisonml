@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dhivya.
 - 👀 I’m interested in building meaningful Data Products and Machine Learning models.
 - 🌱 I’m currently learning about MLOps.
-- 💞️ I’m looking to collaborate on Machine Learning avenues in Retail and Finance.
+- 💞️ I’m looking to collaborate on building Machine Learning products in the financial services and retail industries.
 - 📫 How to reach me: dhivyaravindran@gmail.com
 
 <!---
